@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658181832615,
+  "timestamp": 1658349641162,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,14 +12,14 @@
       },
       "urls": [
         "/45.03cb509029b9c03e.js",
-        "/972.0a98500d026682d3.js",
+        "/973.881ffa5f229a99a2.js",
         "/favicon.ico",
         "/index.html",
-        "/main.ffbde733be611e93.js",
+        "/main.b3f5b79dc2f78d60.js",
         "/manifest.webmanifest",
         "/polyfills.247ab5d1d768ce0f.js",
-        "/runtime.f78fd306b575f052.js",
-        "/styles.44c43563ae9746d3.css"
+        "/runtime.57405b1f7cee64cb.js",
+        "/styles.050888766036b509.css"
       ],
       "patterns": []
     },
@@ -39,7 +39,8 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
-        "/assets/notfound.jpg"
+        "/assets/notfound.jpg",
+        "/assets/pokebola.png"
       ],
       "patterns": []
     }
@@ -47,7 +48,7 @@
   "dataGroups": [],
   "hashTable": {
     "/45.03cb509029b9c03e.js": "507f8d23bda46d4996b754de20516606eeab5652",
-    "/972.0a98500d026682d3.js": "cf19032fc5bdeb0fd284de363e8903f04c527a0d",
+    "/973.881ffa5f229a99a2.js": "040e2f5bad7641f60446367ab344dac554ad4eae",
     "/assets/icons/icon-128x128.png": "a73bca43c37ac26dbac5b33bee55529eef11d5fb",
     "/assets/icons/icon-144x144.png": "e66a9b96f8474854dc0573321990b1288d15cab8",
     "/assets/icons/icon-152x152.png": "5f00700d06f4b0908bd531d09645c2d681162107",
@@ -57,13 +58,14 @@
     "/assets/icons/icon-72x72.png": "855cde3d9a466005d58f059e3c4f834eba412fb9",
     "/assets/icons/icon-96x96.png": "a93762638ce278096e6001a768110a0bc930de24",
     "/assets/notfound.jpg": "0d4447226700f141f0df461acbf7b5e1adebe1ae",
+    "/assets/pokebola.png": "bc3e0b607a8838a0eb8c24777e6df3b461d5e4db",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "c70a5b5608535ecd28ecb2dda06e7068f390271e",
-    "/main.ffbde733be611e93.js": "d000b5870e6dfbb8a2a5604fec1025ede8366cb7",
+    "/index.html": "40bcc4d737a0147217c9f601bbb143a83b9a3bb1",
+    "/main.b3f5b79dc2f78d60.js": "353921df41343aae871b880607c5ffe6b4032292",
     "/manifest.webmanifest": "aff2f36146dd220dfea0c901f3f292403e20c55e",
     "/polyfills.247ab5d1d768ce0f.js": "7c71240385a9cad964721608057cd9050ab59a7f",
-    "/runtime.f78fd306b575f052.js": "2443ebb4d1920a634bec0c000106155d78e4d212",
-    "/styles.44c43563ae9746d3.css": "343ed1f9cad1fffcd002a7dcae7efa32a5cfe33d"
+    "/runtime.57405b1f7cee64cb.js": "91f6d93ece75a20eda83ba596f52b98ba3ceff48",
+    "/styles.050888766036b509.css": "c798449db12bb41cc955b985e10af571771a444c"
   },
   "navigationUrls": [
     {
