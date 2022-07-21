@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1658349641162,
+  "timestamp": 1658433170321,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
+        "/393.6272659e35607c8d.js",
         "/45.03cb509029b9c03e.js",
-        "/973.881ffa5f229a99a2.js",
         "/favicon.ico",
         "/index.html",
-        "/main.b3f5b79dc2f78d60.js",
+        "/main.d00abb8ea7f4b725.js",
         "/manifest.webmanifest",
         "/polyfills.247ab5d1d768ce0f.js",
-        "/runtime.57405b1f7cee64cb.js",
-        "/styles.050888766036b509.css"
+        "/runtime.fd7044f1a2f4f2f4.js",
+        "/styles.64984f9a46bed1f6.css"
       ],
       "patterns": []
     },
@@ -31,6 +31,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/home.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -39,16 +40,22 @@
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
+        "/assets/logo.png",
         "/assets/notfound.jpg",
-        "/assets/pokebola.png"
+        "/assets/pokebola.png",
+        "/fontawesome-webfont.8a7cb27d142e3e19.ttf",
+        "/fontawesome-webfont.cf011583fb81df9f.woff",
+        "/fontawesome-webfont.da909aa098b0ee2d.svg",
+        "/fontawesome-webfont.e9955780856cf8aa.woff2"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
+    "/393.6272659e35607c8d.js": "372db217fea485515b85f822ae511388ea5df2aa",
     "/45.03cb509029b9c03e.js": "507f8d23bda46d4996b754de20516606eeab5652",
-    "/973.881ffa5f229a99a2.js": "040e2f5bad7641f60446367ab344dac554ad4eae",
+    "/assets/home.png": "b88632d305be9d5b79bc219e202adad9cc8a2c10",
     "/assets/icons/icon-128x128.png": "a73bca43c37ac26dbac5b33bee55529eef11d5fb",
     "/assets/icons/icon-144x144.png": "e66a9b96f8474854dc0573321990b1288d15cab8",
     "/assets/icons/icon-152x152.png": "5f00700d06f4b0908bd531d09645c2d681162107",
@@ -57,15 +64,20 @@
     "/assets/icons/icon-512x512.png": "fd05b659d7c94f6d99a0a765420f5d34a77912c9",
     "/assets/icons/icon-72x72.png": "855cde3d9a466005d58f059e3c4f834eba412fb9",
     "/assets/icons/icon-96x96.png": "a93762638ce278096e6001a768110a0bc930de24",
+    "/assets/logo.png": "4e8c7fb6051aad5a5cf7d193adafa16ed86acdee",
     "/assets/notfound.jpg": "0d4447226700f141f0df461acbf7b5e1adebe1ae",
     "/assets/pokebola.png": "bc3e0b607a8838a0eb8c24777e6df3b461d5e4db",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "40bcc4d737a0147217c9f601bbb143a83b9a3bb1",
-    "/main.b3f5b79dc2f78d60.js": "353921df41343aae871b880607c5ffe6b4032292",
+    "/fontawesome-webfont.8a7cb27d142e3e19.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.cf011583fb81df9f.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/fontawesome-webfont.da909aa098b0ee2d.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.e9955780856cf8aa.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/index.html": "b4eb633f206ca361cc270c3e972263fb628425fd",
+    "/main.d00abb8ea7f4b725.js": "1bb77081aa5542184fbd48b52811e2b22409dff8",
     "/manifest.webmanifest": "aff2f36146dd220dfea0c901f3f292403e20c55e",
     "/polyfills.247ab5d1d768ce0f.js": "7c71240385a9cad964721608057cd9050ab59a7f",
-    "/runtime.57405b1f7cee64cb.js": "91f6d93ece75a20eda83ba596f52b98ba3ceff48",
-    "/styles.050888766036b509.css": "c798449db12bb41cc955b985e10af571771a444c"
+    "/runtime.fd7044f1a2f4f2f4.js": "0aad95cf333d05d9854335c7c77851987187003b",
+    "/styles.64984f9a46bed1f6.css": "f7976c8b65ec121bfcb6ccb76b700e5baf127406"
   },
   "navigationUrls": [
     {
